@@ -1,0 +1,18 @@
+{
+  "name": "horizenEON",
+  "website": "https://eon.horizen.io/",
+  "description": "Powered by Horizen, EON is a fully EVM-compatible sidechain and smart contract platform built with massive scalability in mind.",
+  "explorer": "https://eon-explorer.horizenlabs.io/",
+  "symbol": "ZEN",
+  "type": "coin",
+  "rpc_url": "https://rpc.ankr.com/horizen_eon",
+  "decimals": 18,
+  "status": "active",
+  "tags": ["defi", "dapp"],
+  "links": [
+    {
+      "name": "whitepaper",
+      "url": "https://f001.backblazeb2.com/file/web-assets/eon-litepaper-april-2023.pdf"
+    }
+  ]
+}

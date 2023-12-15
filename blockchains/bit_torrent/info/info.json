@@ -1,0 +1,18 @@
+{
+  "name": "Bittorrent",
+  "website": "https://www.bittorrent.com/",
+  "description": "BitTorrent Token Tokenizing the world's largest decentralized file sharing protocol with BTT",
+  "explorer": "https://bttcscan.com/",
+  "symbol": "BBTC",
+  "type": "coin",
+  "rpc_url": "https://rpc.bittorrentchain.io",
+  "decimals": 18,
+  "status": "active",
+  "tags": ["defi", "dapp"],
+  "links": [
+    {
+      "name": "whitepaper",
+      "url": "https://www.bittorrent.com/btt/btt-docs/BitTorrent_(BTT)_White_Paper_v0.8.7_Feb_2019.pdf"
+    }
+  ]
+}
